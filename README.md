@@ -4,7 +4,15 @@
 
 Currently learning
 
-Tools
+### Tools
+![Postman](https://img.shields.io/badge/-Postman-FFD1DC?style=for-the-badge) ![Charles Proxy](https://img.shields.io/badge/-CharlesProxy-FFD1DC?style=for-the-badge)
+![Swagger](https://img.shields.io/badge/-Swagger-FFD1DC?style=for-the-badge) 
+![Charles Proxy](https://img.shields.io/badge/-CharlesProxy-FFD1DC?style=for-the-badge)
+![Jira](https://img.shields.io/badge/-Jira-FFD1DC?style=for-the-badge)
+![Git & GitHub](https://img.shields.io/badge/-Git%20%26%20GitHub-FFD1DC?style=for-the-badge)
+![DevTools](https://img.shields.io/badge/-DevTools-FFD1DC?style=for-the-badge)
+
+
 
 Projects
 
