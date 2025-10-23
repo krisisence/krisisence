@@ -4,7 +4,7 @@
 
 Currently learning
 
-### Tools
+### Инструменты
 ![Postman](https://img.shields.io/badge/-Postman-FFD1DC?style=for-the-badge) ![Charles Proxy](https://img.shields.io/badge/-CharlesProxy-FFD1DC?style=for-the-badge)
 ![Swagger](https://img.shields.io/badge/-Swagger-FFD1DC?style=for-the-badge) 
 ![Charles Proxy](https://img.shields.io/badge/-CharlesProxy-FFD1DC?style=for-the-badge)
